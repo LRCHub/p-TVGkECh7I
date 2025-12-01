@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Rabbit Hole",
+  "base_artist": "Rachie",
+  "createdAt": "2025-12-01T13:20:02.354344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Age of Anxiety II (Rabbit Hole)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/01_Age_of_Anxiety_II_(Rabbit_Hole)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/02_Rabbit_Hole_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Natalia Kills",
+      "has_synced": false,
+      "path": "select/03_Rabbit_Hole_Natalia_Kills.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Journey Into the Rabbit Hole",
+      "artist": "In This Moment",
+      "has_synced": false,
+      "path": "select/04_A_Journey_Into_the_Rabbit_Hole_In_This_Moment.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Journey Into The Rabbit Hole (Interview)",
+      "artist": "In This Moment",
+      "has_synced": false,
+      "path": "select/05_A_Journey_Into_The_Rabbit_Hole_(Interview)_In_This_Moment.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Rabbit Hole",
+      "artist": "In This Moment",
+      "has_synced": false,
+      "path": "select/06_The_Rabbit_Hole_In_This_Moment.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Ruby Waters",
+      "has_synced": false,
+      "path": "select/07_Rabbit_Hole_Ruby_Waters.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Layton Giordani feat. HI-LO & Oliver Heldens",
+      "has_synced": true,
+      "path": "select/08_Rabbit_Hole_Layton_Giordani_feat._HI-LO_&_Oliver_Heldens.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "CamelPhat feat. Jem Cooke",
+      "has_synced": true,
+      "path": "select/09_Rabbit_Hole_CamelPhat_feat._Jem_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "CamelPhat/Jem Cooke",
+      "has_synced": true,
+      "path": "select/10_Rabbit_Hole_CamelPhat_Jem_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "RABBIT HOLE",
+      "artist": "AViVA",
+      "has_synced": true,
+      "path": "select/11_RABBIT_HOLE_AViVA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "blink‐182",
+      "has_synced": true,
+      "path": "select/12_Rabbit_Hole_blink‐182.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rabbit Hole (Explicit)",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/13_Rabbit_Hole_(Explicit)_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "blink-182",
+      "has_synced": true,
+      "path": "select/14_Rabbit_Hole_blink-182.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Down in a Rabbit Hole",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/15_Down_in_a_Rabbit_Hole_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Jake Bugg",
+      "has_synced": true,
+      "path": "select/16_Rabbit_Hole_Jake_Bugg.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Jenny Lewis",
+      "has_synced": true,
+      "path": "select/17_Rabbit_Hole_Jenny_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rabbit Hole",
+      "artist": "Embrace",
+      "has_synced": false,
+      "path": "select/18_Rabbit_Hole_Embrace.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rabbit Hole",
+      "artist": "Blink-182",
+      "has_synced": false,
+      "path": "select/pl_01_Rabbit_Hole_Blink-182.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "rabBIThole",
+      "artist": "Blink-182",
+      "has_synced": false,
+      "path": "select/pl_02_rabBIThole_Blink-182.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rabbit Hole",
+      "artist": "Blink-182",
+      "has_synced": false,
+      "path": "select/pl_03_Rabbit_Hole_Blink-182.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Rabbit Hole",
+      "artist": "Blink-182",
+      "has_synced": false,
+      "path": "select/pl_04_Rabbit_Hole_Blink-182.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "RABBIT HOLE",
+      "artist": "Blink-182",
+      "has_synced": false,
+      "path": "select/pl_05_RABBIT_HOLE_Blink-182.txt"
+    }
+  ]
+}
